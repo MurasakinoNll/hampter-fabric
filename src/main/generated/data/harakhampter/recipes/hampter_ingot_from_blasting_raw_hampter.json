@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 60,
+  "experience": 0.7,
+  "group": "hampter",
+  "ingredient": {
+    "item": "harakhampter:raw_hampter"
+  },
+  "result": "harakhampter:hampter_ingot"
+}

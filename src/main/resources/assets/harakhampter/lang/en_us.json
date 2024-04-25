@@ -1,0 +1,12 @@
+{
+  "block.harakhampter.hampterium": "Hampterium Ore",
+  "block.harakhampter.hampteriumdeepslate": "Deepslate Hampterium Ore",
+  "block.harakhampter.hampteriumnetherrack": "Netherrack Hampterium Ore",
+  "block.harakhampter.hampteriumendstone": "Endstone Hampterium Ore",
+
+  "item.harakhampter.raw_hampter": "Raw Hampter",
+  "item.harakhampter.hampter_ingot": "Hampter ingot",
+  "item.harakhampter.cooked_hampter": "Cooked Hampter",
+
+  "itemgroup.hampter": "Hampter Items"
+}

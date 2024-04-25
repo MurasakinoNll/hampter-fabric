@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "harakhampter:hampter_ingot"
+    },
+    "C": {
+      "item": "harakhampter:cooked_hampter"
+    }
+  },
+  "pattern": [
+    "###",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "item": "harakhampter:mad_hampter"
+  },
+  "show_notification": true
+}
